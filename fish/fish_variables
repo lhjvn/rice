@@ -1,0 +1,9 @@
+# This file contains fish universal variable definitions.
+# VERSION: 3.0
+SETUVAR __done_min_cmd_duration:10000
+SETUVAR __done_notification_urgency_level:low
+SETUVAR __fish_initialized:4300
+SETUVAR __fish_webconfig_theme_notification:set\x2dtheme\x2dv1\x2d\x234
+SETUVAR fish_color_virtualenv:brblack
+SETUVAR fish_theme:256_noir
+SETUVAR fish_user_paths:/usr/local/go/bin\x1e/home/lhjvn/\x2elocal/bin\x1e/home/lhjvn/\x2elocal/share/gem/ruby/3\x2e3\x2e0/bin\x1e/home/lhjvn/\x2efoundry/bin\x1e/bin/zig\x2dx86_64\x2dlinux\x2d0\x2e17\x2e0\x2ddev\x2e1442\x2b972627084
